@@ -1,0 +1,12 @@
+C:\Users\Kiro Wesam\Desktop\me\collage\2nd year\second term\Visual Programming\Restaurant system\Restaurant system\bin\Debug\Restaurant system.exe.config
+C:\Users\Kiro Wesam\Desktop\me\collage\2nd year\second term\Visual Programming\Restaurant system\Restaurant system\bin\Debug\Restaurant system.exe
+C:\Users\Kiro Wesam\Desktop\me\collage\2nd year\second term\Visual Programming\Restaurant system\Restaurant system\bin\Debug\Restaurant system.pdb
+C:\Users\Kiro Wesam\Desktop\me\collage\2nd year\second term\Visual Programming\Restaurant system\Restaurant system\obj\Debug\Restaurant system.csprojAssemblyReference.cache
+C:\Users\Kiro Wesam\Desktop\me\collage\2nd year\second term\Visual Programming\Restaurant system\Restaurant system\obj\Debug\Restaurant_system.Form1.resources
+C:\Users\Kiro Wesam\Desktop\me\collage\2nd year\second term\Visual Programming\Restaurant system\Restaurant system\obj\Debug\Restaurant_system.Properties.Resources.resources
+C:\Users\Kiro Wesam\Desktop\me\collage\2nd year\second term\Visual Programming\Restaurant system\Restaurant system\obj\Debug\Restaurant system.csproj.GenerateResource.cache
+C:\Users\Kiro Wesam\Desktop\me\collage\2nd year\second term\Visual Programming\Restaurant system\Restaurant system\obj\Debug\Restaurant system.csproj.CoreCompileInputs.cache
+C:\Users\Kiro Wesam\Desktop\me\collage\2nd year\second term\Visual Programming\Restaurant system\Restaurant system\obj\Debug\Restaurant system.exe
+C:\Users\Kiro Wesam\Desktop\me\collage\2nd year\second term\Visual Programming\Restaurant system\Restaurant system\obj\Debug\Restaurant system.pdb
+C:\Users\Kiro Wesam\Desktop\me\collage\2nd year\second term\Visual Programming\Restaurant system\Restaurant system\obj\Debug\Restaurant_system.Form2.resources
+C:\Users\Kiro Wesam\Desktop\me\collage\2nd year\second term\Visual Programming\Restaurant system\Restaurant system\obj\Debug\Restaurant_system.FormMenu.resources
